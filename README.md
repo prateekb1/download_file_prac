@@ -49,3 +49,13 @@ body {
 <h1 style="color: #00bfff;">Anime Heading</h1>
 
 This text is <span style="color: blue;">blue</span>.
+
+
+- [ ] Task 1
+- [x] Task 2
+- [ ] Task 3
+
+[![Build Status](https://travis-ci.com/username/repo.svg?branch=main)](https://travis-ci.com/username/repo)
+[![codecov](https://codecov.io/gh/username/repo/branch/main/graph/badge.svg)](https://codecov.io/gh/username/repo)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G8nNGk6LHaM" frameborder="0" allowfullscreen></iframe>
