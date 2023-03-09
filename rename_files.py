@@ -13,5 +13,5 @@ for dirpath, dirnames, filenames in os.walk(start_dir):
             # construct the full paths to the old and new files
             old_path = os.path.join(dirpath, filename)
             new_path = os.path.join(dirpath, new_filename)
-            # rename the file using the os.rename() function
-            os.rename(old_path, new_path)
+            # use git mv to rename the file
+            os.system(f'git mv -f "{old_path}" "{new_path}"')
