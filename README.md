@@ -25,7 +25,7 @@ body {
 <p style="color: rgba(255, 0, 0, 0.5);">This text is semi-transparent red.</p>
 
 <p style="color: rgb(255, 0, 0);">This text is red.</p>
-
+<details>
 # <p style="color: #ff69b4;">This text is Hot pink.</p>
 # <p style="color: #00bfff;">This text is Electric Blue.</p>
 # <p style="color: #00ff00;">This text is Lime green.</p>
@@ -43,7 +43,7 @@ body {
 # <p style="color: #ff00ff;">This text is Fuchsia.</p>
 # <p style="color: #00ffff;">This text is Cyan.</p>
 # <p style="color: #ff00ff;">This text is Magenta.</p>
-
+</details>
 
 <h1 style="color: #00bfff;">Anime Heading</h1>
 
