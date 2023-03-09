@@ -26,6 +26,7 @@ body {
 
 <p style="color: rgb(255, 0, 0);">This text is red.</p>
 <details>
+<summary><h2>📊 Github Stats and Activity</h2></summary>
 # <p style="color: #ff69b4;">This text is Hot pink.</p>
 # <p style="color: #00bfff;">This text is Electric Blue.</p>
 # <p style="color: #00ff00;">This text is Lime green.</p>
