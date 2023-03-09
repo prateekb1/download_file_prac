@@ -21,8 +21,6 @@ body {
 <p style="color: hsla(0, 100%, 50%, 0.5);">This text is semi-transparent red.</p>
 
 
-https://user-images.githubusercontent.com/79625998/224019400-af98e52c-5128-4eea-bdbf-604614e72e4f.mp4
-
 
 <p style="color: hsl(0, 100%, 50%);">This text is red.</p>
 
