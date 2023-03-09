@@ -47,3 +47,4 @@ body {
 
 <h1 style="color: #00bfff;">Anime Heading</h1>
 
+This text is <span style="color: blue;">blue</span>.
